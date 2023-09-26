@@ -46,6 +46,25 @@ print("Do you have a job?")
 
 job_info = str(input())
 
+print("How much do you earn an hour?")
+
+job_info = str(input())
+
 print("What's your form of transportation?")
 
 travel_info = str(input())
+
+print("How many weeks of school do you have left?")
+
+weeks_of_school = str(input())
+
+print("Do you have a phone bill? How much is it a month?")
+
+phone_bill = str(input())
+
+print("How much money do you spend on gas a week?")
+
+gas_money = str(input())
+
+
+
